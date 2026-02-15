@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "リリィ (Special ver.)",
+  "base_artist": "八百歳比名子(CV:上田麗奈)、近江汐莉(CV:石川由依)",
+  "createdAt": "2026-02-15T15:05:41.320125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_リリィ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/02_リリィ_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "Centimillimental",
+      "has_synced": true,
+      "path": "select/03_リリィ_Centimillimental.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/04_リリィ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/05_リリィ_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "センチミリメンタル",
+      "has_synced": false,
+      "path": "select/06_リリィ_センチミリメンタル.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リリィ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/07_リリィ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "リリィ - Lily",
+      "artist": "Centimillimental",
+      "has_synced": false,
+      "path": "select/08_リリィ_-_Lily_Centimillimental.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "07. リリィ",
+      "artist": "Bump of Chicken",
+      "has_synced": false,
+      "path": "select/09_07._リリィ_Bump_of_Chicken.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "hi18_01_オープニング～おしとやかなお姉さん、シスター・リリィ～",
+      "artist": "RaRo",
+      "has_synced": true,
+      "path": "select/10_hi18_01_オープニング~おしとやかなお姉さん、シスター・リリィ~_RaRo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リリィ",
+      "artist": "八百歳比名子(CV:上田麗奈)",
+      "has_synced": false,
+      "path": "select/pl_01_リリィ_八百歳比名子(CV_上田麗奈).txt"
+    }
+  ]
+}
